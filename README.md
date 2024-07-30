@@ -30,7 +30,7 @@ THEN I am taken to the corresponding section of the README
 
 ## Demo
 
-<a href="./media/ReadMe.mp4">Watch the video</a>
+[<a href="./media/ReadMe.mp4">Watch the video</a>](https://youtu.be/cDSh0U0dxhA)
 
 ## Links
 
