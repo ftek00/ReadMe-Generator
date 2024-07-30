@@ -30,9 +30,7 @@ THEN I am taken to the corresponding section of the README
 
 ## Demo
 
-<video width="320" height="240" controls>
-  <source src="./media/ReadMe.mp4" type="video/mp4">
-</video>
+<a href="./media/ReadMe.mp4">Watch the video</a>
 
 ## Links
 
